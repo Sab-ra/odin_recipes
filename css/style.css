@@ -1,0 +1,62 @@
+* {
+  font-family: Papyrus, sans-serif;
+}
+
+.home {
+  color: hsl(120, 90%, 25%);
+}
+
+.sign-flag {
+  background-color: black;
+  color: whitesmoke;
+}
+
+li {
+  font-size: 26px;
+}
+
+.bring-up {
+  color: hsl(345, 80%, 50%);
+  font-weight: 800;
+}
+
+.name_call {
+  font-size: 60px;
+  font-weight: 100;
+}
+
+.intro {
+  font-size: 24px;
+  text-indent: 30px;
+}
+
+.rude, .name_call {
+  text-align: center;
+}
+
+.rude {
+  font-size: 79px;
+  font-weight: 700;
+}
+
+.label {
+  text-align: right;
+}
+
+
+img {
+  height: 430px;
+  width: auto;
+}
+
+.portrait_image {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.comment {
+  background-color: hsl(53, 70%, 50%);
+  color: hsl(286, 90%, 19%);
+  font-weight: 800;
+}
